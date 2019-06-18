@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77c91615-2cd9-46db-987d-f2c1bf25dc70" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CC Online Dessert.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC Online Dessert.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10314">
+              <caret line="573" column="108" lean-forward="false" selection-start-line="573" selection-start-column="108" selection-end-line="573" selection-end-column="108" />
+              <folding>
+                <marker date="1508745474125" expanded="true" signature="15855:15903" ph="SELECT * FRO... stock" />
+                <marker date="1508745474125" expanded="true" signature="18742:18820" ph="INSERT INTO order_detail... " />
+                <marker date="1508745474125" expanded="true" signature="18844:18902" ph="INSERT INTO cart... " />
+                <marker date="1508745474125" expanded="true" signature="22786:22869" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCAdminCustomer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CCAdminCustomer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+              <folding>
+                <marker date="1508650469553" expanded="true" signature="3433:3542" ph="INSERT INTO signup... " />
+                <marker date="1508650469553" expanded="true" signature="4056:4239" ph="UPDATE signu... " />
+                <marker date="1508650469553" expanded="true" signature="4755:4796" ph="DELETE FROM " />
+                <marker date="1508650469553" expanded="true" signature="5332:5384" ph="SELECT * FRO... signup" />
+                <marker date="1508650469553" expanded="true" signature="8807:8827" ph="SELECT * FRO... signup" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCAdminOrder.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CCAdminOrder.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1998">
+              <caret line="111" column="33" lean-forward="true" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+              <folding>
+                <marker date="1508704357230" expanded="true" signature="3548:3628" ph="INSERT INTO order_detail... " />
+                <marker date="1508704357230" expanded="true" signature="4146:4272" ph="UPDATE order... " />
+                <marker date="1508704357230" expanded="true" signature="4637:4682" ph="DELETE from " />
+                <marker date="1508704357230" expanded="true" signature="5228:5285" ph="SELECT * FRO... order_detail" />
+                <marker date="1508704357230" expanded="true" signature="8735:8761" ph="SELECT * FRO... order_detail" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCWishlist.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CCWishlist.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9702">
+              <caret line="539" column="49" lean-forward="true" selection-start-line="539" selection-start-column="49" selection-end-line="539" selection-end-column="49" />
+              <folding>
+                <marker date="1508703643368" expanded="true" signature="13660:13696" ph="DELETE FROM " />
+                <marker date="1508703643368" expanded="true" signature="14154:14278" ph="UPDATE order... " />
+                <marker date="1508703643368" expanded="true" signature="14302:14391" ph="UPDATE cart " />
+                <marker date="1508703643368" expanded="true" signature="15452:15529" ph="SELECT * FRO... cart" />
+                <marker date="1508703643368" expanded="true" signature="15562:15588" ph="SELECT * FRO... order_detail" />
+                <marker date="1508703643368" expanded="true" signature="22004:22080" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC Online Home.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC Online Home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <marker date="1508744739590" expanded="true" signature="15321:15369" ph="SELECT * FRO... stock" />
+                <marker date="1508744739590" expanded="true" signature="16894:16939" ph="SELECT * FRO... stock" />
+                <marker date="1508744739590" expanded="true" signature="18572:18618" ph="SELECT * FRO... stock" />
+                <marker date="1508744739590" expanded="true" signature="20253:20301" ph="SELECT * FRO... stock" />
+                <marker date="1508744739590" expanded="true" signature="21938:21988" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC Online Rice.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC Online Rice.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10314">
+              <caret line="573" column="108" lean-forward="false" selection-start-line="573" selection-start-column="108" selection-end-line="573" selection-end-column="108" />
+              <folding>
+                <marker date="1508745474002" expanded="true" signature="15847:15892" ph="SELECT * FRO... stock" />
+                <marker date="1508745474002" expanded="true" signature="18728:18806" ph="INSERT INTO order_detail... " />
+                <marker date="1508745474002" expanded="true" signature="18830:18888" ph="INSERT INTO cart... " />
+                <marker date="1508745474002" expanded="true" signature="22461:22541" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC Profile Setting.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC Profile Setting.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8748">
+              <caret line="486" column="24" lean-forward="false" selection-start-line="486" selection-start-column="24" selection-end-line="486" selection-end-column="24" />
+              <folding>
+                <marker date="1508745314513" expanded="true" signature="12206:12386" ph="UPDATE signu... " />
+                <marker date="1508745314513" expanded="true" signature="12852:12895" ph="SELECT * FRO... signup" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC Homepage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CC Homepage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CCAdminStock.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CCAdminStock.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1386">
+              <caret line="197" column="10" lean-forward="false" selection-start-line="197" selection-start-column="10" selection-end-line="197" selection-end-column="10" />
+              <folding>
+                <marker date="1508661652939" expanded="true" signature="3014:3064" ph="SELECT * FRO... stock" />
+                <marker date="1508661652939" expanded="true" signature="6912:7021" ph="INSERT INTO stock... " />
+                <marker date="1508661652939" expanded="true" signature="7610:7769" ph="UPDATE stock... " />
+                <marker date="1508661652939" expanded="true" signature="8189:8229" ph="DELETE from " />
+                <marker date="1508661652939" expanded="true" signature="9614:9633" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CC Online Beverages.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CC Online Beverages.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="561" column="75" lean-forward="true" selection-start-line="561" selection-start-column="75" selection-end-line="561" selection-end-column="75" />
+              <folding>
+                <marker date="1517393726149" expanded="true" signature="15855:15905" ph="SELECT * FRO... stock" />
+                <marker date="1517393726149" expanded="true" signature="18745:18823" ph="INSERT INTO order_detail... " />
+                <marker date="1517393726149" expanded="true" signature="18847:18905" ph="INSERT INTO cart... " />
+                <marker date="1517393726149" expanded="true" signature="22791:22876" ph="SELECT * FRO... stock" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CCSigninAdmin.php" />
+        <option value="$PROJECT_DIR$/../qwertyyui/Signinhtml.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/CC Food Menu.html" />
+        <option value="$PROJECT_DIR$/AdminDestroy.php" />
+        <option value="$PROJECT_DIR$/homeDestroy.php" />
+        <option value="$PROJECT_DIR$/beverageDestroy.php" />
+        <option value="$PROJECT_DIR$/curryDestroy.php" />
+        <option value="$PROJECT_DIR$/dessertDestroy.php" />
+        <option value="$PROJECT_DIR$/packageDestroy.php" />
+        <option value="$PROJECT_DIR$/riceDestroy.php" />
+        <option value="$PROJECT_DIR$/CCAdminLowStock.php" />
+        <option value="$PROJECT_DIR$/CCAdminOutofstock.php" />
+        <option value="$PROJECT_DIR$/CCAdminStockAvailable.php" />
+        <option value="$PROJECT_DIR$/CCOrderPayment.php" />
+        <option value="$PROJECT_DIR$/CCAdminSupplier.php" />
+        <option value="$PROJECT_DIR$/CCAdminCustomer.php" />
+        <option value="$PROJECT_DIR$/CC Homepage.html" />
+        <option value="$PROJECT_DIR$/CCAdminStock.php" />
+        <option value="$PROJECT_DIR$/CCAdminOrderPending.php" />
+        <option value="$PROJECT_DIR$/CCAdminOrderCancelled.php" />
+        <option value="$PROJECT_DIR$/CCAdminOrderInvoiced.php" />
+        <option value="$PROJECT_DIR$/CCAdminOrderProccessing.php" />
+        <option value="$PROJECT_DIR$/CSS/signupDesign.css" />
+        <option value="$PROJECT_DIR$/../Final 13/NEW Packages.php" />
+        <option value="$PROJECT_DIR$/../Final 13/NEW Feedback.php" />
+        <option value="$PROJECT_DIR$/CCSignupAdmin.php" />
+        <option value="$PROJECT_DIR$/CSS/CCHomePage.php" />
+        <option value="$PROJECT_DIR$/EditPage.css" />
+        <option value="$PROJECT_DIR$/CCWishlist.php" />
+        <option value="$PROJECT_DIR$/CCAdminResetPassword.php" />
+        <option value="$PROJECT_DIR$/CCAdminOrder.php" />
+        <option value="$PROJECT_DIR$/CCOrderSummary.php" />
+        <option value="$PROJECT_DIR$/CCHomePage.php" />
+        <option value="$PROJECT_DIR$/CCEditPage.php" />
+        <option value="$PROJECT_DIR$/CC About Us.html" />
+        <option value="$PROJECT_DIR$/CC Contact Us.php" />
+        <option value="$PROJECT_DIR$/CC FAQ.html" />
+        <option value="$PROJECT_DIR$/CCFoodMenu.php" />
+        <option value="$PROJECT_DIR$/CCCustomerReset.php" />
+        <option value="$PROJECT_DIR$/CCAdminPage.php" />
+        <option value="$PROJECT_DIR$/CCSignin.php" />
+        <option value="$PROJECT_DIR$/Javascript/signupValidation.js" />
+        <option value="$PROJECT_DIR$/CC Signup.php" />
+        <option value="$PROJECT_DIR$/CC Online Home.php" />
+        <option value="$PROJECT_DIR$/CC Profile Setting.php" />
+        <option value="$PROJECT_DIR$/CC Online Curry.php" />
+        <option value="$PROJECT_DIR$/CC Online Dessert.php" />
+        <option value="$PROJECT_DIR$/CC Online Package.php" />
+        <option value="$PROJECT_DIR$/CC Online Rice.php" />
+        <option value="$PROJECT_DIR$/CC Online Beverages.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-317" />
+    <option name="y" value="27" />
+    <option name="width" value="1201" />
+    <option name="height" value="661" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="The Caped Carrot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Caped Carrot" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="The Caped Carrot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Caped Carrot" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Javascript" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../T" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77c91615-2cd9-46db-987d-f2c1bf25dc70" name="Default" comment="" />
+      <created>1507446943971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507446943971</updated>
+      <workItem from="1507446948747" duration="44000" />
+      <workItem from="1507447005067" duration="315000" />
+      <workItem from="1507452559578" duration="1199000" />
+      <workItem from="1507460930114" duration="15087000" />
+      <workItem from="1507479998039" duration="236000" />
+      <workItem from="1507519698180" duration="133000" />
+      <workItem from="1507536666641" duration="69000" />
+      <workItem from="1507547714399" duration="48000" />
+      <workItem from="1507555914558" duration="1707000" />
+      <workItem from="1507558854979" duration="880000" />
+      <workItem from="1507561959161" duration="5008000" />
+      <workItem from="1507568167422" duration="2522000" />
+      <workItem from="1507571944561" duration="5447000" />
+      <workItem from="1507615333768" duration="1018000" />
+      <workItem from="1507638581829" duration="2168000" />
+      <workItem from="1507653071669" duration="5496000" />
+      <workItem from="1507698761188" duration="4885000" />
+      <workItem from="1507705238279" duration="488000" />
+      <workItem from="1507729440184" duration="8249000" />
+      <workItem from="1507738374628" duration="9013000" />
+      <workItem from="1507795316012" duration="6843000" />
+      <workItem from="1507810952200" duration="1354000" />
+      <workItem from="1507812549212" duration="5000" />
+      <workItem from="1507812572469" duration="6000" />
+      <workItem from="1507817542245" duration="2001000" />
+      <workItem from="1507822991817" duration="10606000" />
+      <workItem from="1507834751047" duration="710000" />
+      <workItem from="1507882787900" duration="6728000" />
+      <workItem from="1507902181926" duration="41000" />
+      <workItem from="1507906035141" duration="1929000" />
+      <workItem from="1507914956189" duration="8999000" />
+      <workItem from="1507950594912" duration="13925000" />
+      <workItem from="1507982721141" duration="1223000" />
+      <workItem from="1507985180828" duration="14527000" />
+      <workItem from="1508006890921" duration="1156000" />
+      <workItem from="1508008386011" duration="670000" />
+      <workItem from="1508033136376" duration="135000" />
+      <workItem from="1508082188221" duration="2445000" />
+      <workItem from="1508086690751" duration="6931000" />
+      <workItem from="1508163982486" duration="757000" />
+      <workItem from="1508169779947" duration="1802000" />
+      <workItem from="1508173214338" duration="411000" />
+      <workItem from="1508173728384" duration="5191000" />
+      <workItem from="1508179092684" duration="1637000" />
+      <workItem from="1508216423120" duration="770000" />
+      <workItem from="1508217500260" duration="86000" />
+      <workItem from="1508312015305" duration="5555000" />
+      <workItem from="1508322319317" duration="5063000" />
+      <workItem from="1508333274009" duration="9846000" />
+      <workItem from="1508408778081" duration="23724000" />
+      <workItem from="1508440559335" duration="849000" />
+      <workItem from="1508480585128" duration="161000" />
+      <workItem from="1508480807875" duration="1486000" />
+      <workItem from="1508486369901" duration="5389000" />
+      <workItem from="1508492887057" duration="4527000" />
+      <workItem from="1508508308021" duration="70061000" />
+      <workItem from="1508658877665" duration="604000" />
+      <workItem from="1508661543619" duration="2019000" />
+      <workItem from="1508677193582" duration="725000" />
+      <workItem from="1508686305703" duration="3912000" />
+      <workItem from="1508697522587" duration="1161000" />
+      <workItem from="1508699603297" duration="2357000" />
+      <workItem from="1508702031555" duration="4290000" />
+      <workItem from="1508732351424" duration="10261000" />
+      <workItem from="1510770847096" duration="18000" />
+      <workItem from="1510772934000" duration="35000" />
+      <workItem from="1511571405414" duration="2510000" />
+      <workItem from="1511605467304" duration="26000" />
+      <workItem from="1511610580161" duration="39000" />
+      <workItem from="1513187453501" duration="291000" />
+      <workItem from="1513264167163" duration="329000" />
+      <workItem from="1517391785461" duration="2177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="312949000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-317" y="27" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19692533" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HomeDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homeDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beverageDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dessertDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packageDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="35" lean-forward="true" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/riceDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="36" lean-forward="false" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminLowStock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="81" lean-forward="false" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminOutofstock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="81" lean-forward="false" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminStockAvailable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="17" column="81" lean-forward="false" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Porfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminSupplier.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="31" column="34" lean-forward="false" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/Images/test/slide3.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminOrderCancelled.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminOrderInvoiced.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminOrderPending.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminOrderProccessing.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="36" column="33" lean-forward="false" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Final 13/NEW Packages.php" />
+    <entry file="file://$PROJECT_DIR$/../Final 13/NEW Feedback.php" />
+    <entry file="file://$PROJECT_DIR$/CCSignupAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/signupDesign.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="90" column="0" lean-forward="false" selection-start-line="90" selection-start-column="0" selection-end-line="103" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EditPage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="150" column="0" lean-forward="false" selection-start-line="150" selection-start-column="0" selection-end-line="150" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCOrderSummary.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10008">
+          <caret line="556" column="25" lean-forward="false" selection-start-line="556" selection-start-column="25" selection-end-line="556" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCEditPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="116" column="48" lean-forward="false" selection-start-line="116" selection-start-column="48" selection-end-line="116" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC About Us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2502">
+          <caret line="139" column="31" lean-forward="false" selection-start-line="139" selection-start-column="31" selection-end-line="139" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Contact Us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5310">
+          <caret line="295" column="31" lean-forward="false" selection-start-line="295" selection-start-column="31" selection-end-line="295" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC FAQ.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2826">
+          <caret line="157" column="31" lean-forward="false" selection-start-line="157" selection-start-column="31" selection-end-line="157" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCFoodMenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="162" column="31" lean-forward="false" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCCustomerReset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="69" column="26" lean-forward="false" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminResetPassword.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="40" column="18" lean-forward="true" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Javascript/signupValidation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="49" column="34" lean-forward="false" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="109" column="7" lean-forward="false" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Food Menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="248" column="33" lean-forward="false" selection-start-line="248" selection-start-column="33" selection-end-line="248" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCOrderPayment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="504" column="29" lean-forward="false" selection-start-line="504" selection-start-column="29" selection-end-line="504" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCSignin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCHomePage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3636">
+          <caret line="202" column="49" lean-forward="false" selection-start-line="202" selection-start-column="49" selection-end-line="202" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/curryDestroy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCSigninAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="63" column="30" lean-forward="false" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Online Curry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10314">
+          <caret line="573" column="108" lean-forward="false" selection-start-line="573" selection-start-column="108" selection-end-line="573" selection-end-column="108" />
+          <folding>
+            <marker date="1508745474051" expanded="true" signature="15849:15895" ph="SELECT * FRO... stock" />
+            <marker date="1508745474051" expanded="true" signature="18734:18812" ph="INSERT INTO order_detail... " />
+            <marker date="1508745474051" expanded="true" signature="18836:18894" ph="INSERT INTO cart... " />
+            <marker date="1508745474051" expanded="true" signature="22776:22857" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Online Package.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10314">
+          <caret line="573" column="108" lean-forward="false" selection-start-line="573" selection-start-column="108" selection-end-line="573" selection-end-column="108" />
+          <folding>
+            <marker date="1508745474087" expanded="true" signature="15854:15902" ph="SELECT * FRO... stock" />
+            <marker date="1508745474087" expanded="true" signature="18793:18871" ph="INSERT INTO order_detail... " />
+            <marker date="1508745474087" expanded="true" signature="18899:18957" ph="INSERT INTO cart... " />
+            <marker date="1508745474087" expanded="true" signature="22909:22992" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="37" lean-forward="false" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
+          <folding>
+            <marker date="1508737209212" expanded="true" signature="2798:2897" ph="INSERT INTO signup... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCWishlist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9702">
+          <caret line="539" column="49" lean-forward="true" selection-start-line="539" selection-start-column="49" selection-end-line="539" selection-end-column="49" />
+          <folding>
+            <marker date="1508703643368" expanded="true" signature="13660:13696" ph="DELETE FROM " />
+            <marker date="1508703643368" expanded="true" signature="14154:14278" ph="UPDATE order... " />
+            <marker date="1508703643368" expanded="true" signature="14302:14391" ph="UPDATE cart " />
+            <marker date="1508703643368" expanded="true" signature="15452:15529" ph="SELECT * FRO... cart" />
+            <marker date="1508703643368" expanded="true" signature="15562:15588" ph="SELECT * FRO... order_detail" />
+            <marker date="1508703643368" expanded="true" signature="22004:22080" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminCustomer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding>
+            <marker date="1508650469553" expanded="true" signature="3433:3542" ph="INSERT INTO signup... " />
+            <marker date="1508650469553" expanded="true" signature="4056:4239" ph="UPDATE signu... " />
+            <marker date="1508650469553" expanded="true" signature="4755:4796" ph="DELETE FROM " />
+            <marker date="1508650469553" expanded="true" signature="5332:5384" ph="SELECT * FRO... signup" />
+            <marker date="1508650469553" expanded="true" signature="8807:8827" ph="SELECT * FRO... signup" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminOrder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="111" column="33" lean-forward="true" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+          <folding>
+            <marker date="1508704357230" expanded="true" signature="3548:3628" ph="INSERT INTO order_detail... " />
+            <marker date="1508704357230" expanded="true" signature="4146:4272" ph="UPDATE order... " />
+            <marker date="1508704357230" expanded="true" signature="4637:4682" ph="DELETE from " />
+            <marker date="1508704357230" expanded="true" signature="5228:5285" ph="SELECT * FRO... order_detail" />
+            <marker date="1508704357230" expanded="true" signature="8735:8761" ph="SELECT * FRO... order_detail" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Online Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <marker date="1508744739590" expanded="true" signature="15321:15369" ph="SELECT * FRO... stock" />
+            <marker date="1508744739590" expanded="true" signature="16894:16939" ph="SELECT * FRO... stock" />
+            <marker date="1508744739590" expanded="true" signature="18572:18618" ph="SELECT * FRO... stock" />
+            <marker date="1508744739590" expanded="true" signature="20253:20301" ph="SELECT * FRO... stock" />
+            <marker date="1508744739590" expanded="true" signature="21938:21988" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Online Dessert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10314">
+          <caret line="573" column="108" lean-forward="false" selection-start-line="573" selection-start-column="108" selection-end-line="573" selection-end-column="108" />
+          <folding>
+            <marker date="1508745474125" expanded="true" signature="15855:15903" ph="SELECT * FRO... stock" />
+            <marker date="1508745474125" expanded="true" signature="18742:18820" ph="INSERT INTO order_detail... " />
+            <marker date="1508745474125" expanded="true" signature="18844:18902" ph="INSERT INTO cart... " />
+            <marker date="1508745474125" expanded="true" signature="22786:22869" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Online Rice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10314">
+          <caret line="573" column="108" lean-forward="false" selection-start-line="573" selection-start-column="108" selection-end-line="573" selection-end-column="108" />
+          <folding>
+            <marker date="1508745474002" expanded="true" signature="15847:15892" ph="SELECT * FRO... stock" />
+            <marker date="1508745474002" expanded="true" signature="18728:18806" ph="INSERT INTO order_detail... " />
+            <marker date="1508745474002" expanded="true" signature="18830:18888" ph="INSERT INTO cart... " />
+            <marker date="1508745474002" expanded="true" signature="22461:22541" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Profile Setting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8748">
+          <caret line="486" column="24" lean-forward="false" selection-start-line="486" selection-start-column="24" selection-end-line="486" selection-end-column="24" />
+          <folding>
+            <marker date="1508745314513" expanded="true" signature="12206:12386" ph="UPDATE signu... " />
+            <marker date="1508745314513" expanded="true" signature="12852:12895" ph="SELECT * FRO... signup" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCAdminStock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="197" column="10" lean-forward="false" selection-start-line="197" selection-start-column="10" selection-end-line="197" selection-end-column="10" />
+          <folding>
+            <marker date="1508661652939" expanded="true" signature="3014:3064" ph="SELECT * FRO... stock" />
+            <marker date="1508661652939" expanded="true" signature="6912:7021" ph="INSERT INTO stock... " />
+            <marker date="1508661652939" expanded="true" signature="7610:7769" ph="UPDATE stock... " />
+            <marker date="1508661652939" expanded="true" signature="8189:8229" ph="DELETE from " />
+            <marker date="1508661652939" expanded="true" signature="9614:9633" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CC Online Beverages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="561" column="75" lean-forward="true" selection-start-line="561" selection-start-column="75" selection-end-line="561" selection-end-column="75" />
+          <folding>
+            <marker date="1517393726149" expanded="true" signature="15855:15905" ph="SELECT * FRO... stock" />
+            <marker date="1517393726149" expanded="true" signature="18745:18823" ph="INSERT INTO order_detail... " />
+            <marker date="1517393726149" expanded="true" signature="18847:18905" ph="INSERT INTO cart... " />
+            <marker date="1517393726149" expanded="true" signature="22791:22876" ph="SELECT * FRO... stock" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

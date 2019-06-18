@@ -1,0 +1,111 @@
+body
+{
+    background-image: url(Images/wali3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container
+{
+    margin:24px;
+}
+.subcontainer
+{
+    float:left;
+    width:65%;
+    padding-top:260px;
+    padding-bottom:230px;
+    background-color:#008080;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    opacity:0.8;
+}
+.subcontainer1
+{
+    float:right;
+    width:34.9%;
+    background-color:dimgray;
+    height:571px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.scontainer
+{
+    margin:23px;
+}
+.scontainer p
+{
+    width:22%;
+    border-bottom:2px solid #008080;
+    font-family: segoe UI;
+    font-size:20px;
+    color:white;
+}
+input[type=text],input[type=email],input[type=password]
+{
+    background-color: transparent;
+    border:none;
+    box-sizing: border-box;
+    border-bottom: 1px solid white;
+    outline:none;
+    padding:10px;
+    width:95%;
+    font-family: segoe UI;
+    color:white;
+    transition-duration:1.0s;
+}
+input[type=text]:hover
+{
+    background-image:url(Icons/person.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-color: transparent;
+    padding-left:40px;
+    background-color: transparent;
+    color:white;
+    border-bottom: 2px solid #008080;
+}
+input[type=email]:hover
+{
+    background-image:url(Icons/message.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-color: transparent;
+    padding-left:40px;
+    background-color: transparent;
+    color:white;
+    border-bottom: 2px solid #008080;
+}
+input[type=password]:hover
+{
+    background-image:url(Icons/password.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-color: transparent;
+    padding-left:40px;
+    color:white;
+    border-bottom: 2px solid #008080;
+}
+label
+{
+    font-family: segoe UI;
+    color:white;
+}
+input[type=submit]
+{
+    margin:5px;
+    width:100%;
+    padding:10px;
+    background-color: transparent;
+    color:white;
+    border-radius:10px;
+    outline:none;
+    font-size:15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:1px solid white;
+    transition-duration: 1.0s;
+}
+input[type=submit]:hover
+{
+    background-color: #008080;
+    border:1px solid #008080;
+}

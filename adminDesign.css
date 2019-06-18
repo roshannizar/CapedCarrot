@@ -1,0 +1,150 @@
+.topnav
+{
+    background-color: black;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+    position: fixed;
+    top:0;
+    left:0;
+    z-index:10;
+    width:100%;
+    box-shadow: 1px 1px 3px 1px dimgray;
+}
+.topnav a
+{
+    color:white;
+    text-decoration: none;
+    padding:18px 20px;
+    font-size:20px;
+    outline:none;
+    font-family:"Segoe UI";
+    transition-duration:1.0s;
+}
+.topnav a:hover
+{
+    color:#38daae;
+}
+.topnav b
+{
+    color:white;
+    float:left;
+    padding-left: 15px;
+    font-family: "Segoe UI";
+    font-size: 17px;
+    padding-right:0;
+}
+.sidenav img
+{
+    width:60%;
+}
+.sidenav
+{
+    position: fixed;
+    top:40px;
+    left:0;
+    height:100%;
+    text-align:center;
+    width:14%;
+    overflow-x: hidden;
+    z-index: 1;
+    background-color:#008080;
+    box-shadow: 1px 3px 1px 1px dimgray;
+    float:left;
+}
+.btn,.btn1
+{
+    color:white;
+    background-color:#008080;
+    border:none;
+    font-size:15px;
+    width:100%;
+    text-align:left;
+    cursor: pointer;
+    padding: 18px;
+    outline: none;
+    font-weight: bold;
+    font-family: "Segoe UI";
+    transition: 0.4s;
+    padding-left:55px;
+}
+.btnorderdrop button
+{
+    background-color:#38daae;
+    color:white;
+    border:none;
+    font-size:15px;
+    width:100%;
+    padding:15px;
+    text-align:left;
+    padding-left:35px;
+    outline: none;
+    transition-duration: 1.0s;
+}
+.btnorderdrop
+{
+    background-color: #38daae;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+.btnorderdrop button:hover
+{
+    color:black;
+    background-color: white;
+}
+.btn.active,.btn:hover,.btn1.active,.btn1:hover
+{
+    background-color: mediumaquamarine;
+    color:black;
+    font-family: "Segoe UI";
+}
+.btn.active,.btn1.active,.btn:focus,.btn1:focus
+{
+    background-color: mediumaquamarine;
+    color:black;
+    transition: 1.0s;
+    font-weight: normal;
+}
+.btn:after,.btn1.after
+{
+    content:"+";
+    color:white;
+    font-weight:bold;
+    float:right;
+    margin-left:5px;
+}
+.btn.active:after
+{
+    content:"-";
+}
+.container
+{
+    float:right;
+    width:85.9%;
+    margin-top:30px;
+    background-color:white;
+    height:582px;
+}
+.container p
+{
+    font-size:17px;
+    font-family: "Segoe UI";
+}
+.subcontainer
+{
+    width:10%;
+    margin:10px;
+    background-color: #008080;
+    height:80px;
+    padding-top:20px;
+    padding-left:150px;
+    box-shadow: 1px 1px 3px 1px dimgray;
+    border-top:5px solid white;
+    float:left;
+}
+.subcontainer p
+{
+    color:white;
+    font-family: "Segoe UI", serif;
+}
